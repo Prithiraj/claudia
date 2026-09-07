@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prithiraj.github.io/claudia/sitemap.xml
